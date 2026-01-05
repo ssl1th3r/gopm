@@ -20,6 +20,7 @@ Provides detailed output, progress bars, and automatic installation of CLI binar
 1. Clone the repository or download the source:
 
 ```bash
-git clone https://github.com/ssl1th3r/GoPM-offical.git
-cd GoPM-offical
+git clone https://github.com/ssl1th3r/GoPM.git
+cd GoPM
+go build
 mv gopm /usr/bin
